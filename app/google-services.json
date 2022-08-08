@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "999729937501",
+    "project_id": "qiscuschatsample-d0480",
+    "storage_bucket": "qiscuschatsample-d0480.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999729937501:android:337df655a61a2da3ba61b4",
+        "android_client_info": {
+          "package_name": "com.example.qiscuschatexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999729937501-spvpm9fbuh357o61h7eku0va8b9ca93j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdtC4mE2PTu-LD25CHYq8_l-DxgNrZqi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999729937501-spvpm9fbuh357o61h7eku0va8b9ca93j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
