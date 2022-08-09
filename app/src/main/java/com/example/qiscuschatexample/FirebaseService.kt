@@ -37,7 +37,7 @@ class FirebaseService : FirebaseMessagingService() {
         FirebaseMessaging.getInstance().token
             .addOnCompleteListener OnCompleteListener@{ task: Task<String> ->
                 if (!task.isSuccessful) {
-                    Log.e("Qiscus", "get current token faile: " + task.exception)
+                    Log.e("Qiscuss", "get current token faile: " + task.exception)
                     return@OnCompleteListener
                 }
                 // enable this when u have entered ur fcm server key to qiscus
