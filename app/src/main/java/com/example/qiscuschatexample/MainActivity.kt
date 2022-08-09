@@ -30,8 +30,8 @@ class MainActivity : AppCompatActivity() {
         setContentView(binding.root)
 
         val qiscusCore = QiscusCore()
-        val appId = "gane-7jdfmmr9i2vwwbd1" // change with your AppId
-        val localKey = "amikomone_channel" // change with your localKey
+        val appId = "" // change with your AppId
+        val localKey = "" // change with your localKey
         val config = QiscusMultichannelWidgetConfig()
 //            .setEnableLog(false)
             .setEnableNotification(true)
@@ -40,7 +40,7 @@ class MainActivity : AppCompatActivity() {
                     context: Context?,
                     qiscusComment: QMessage?
                 ) {
-                    // your notification
+                    // set up your notification
 
                 }
             })
@@ -80,7 +80,7 @@ class MainActivity : AppCompatActivity() {
     private fun initChat() {
         qiscusMultichannelWidget.initiateChat()
             .showLoadingWhenInitiate(false)
-            .setChannelId(125948)
+//            .setChannelId() // change with your channel id
             .setRoomTitle("Custom Title")
             .setAvatar(QiscusMultichannelWidgetConfig.Avatar.DISABLE)
             .setRoomSubtitle(

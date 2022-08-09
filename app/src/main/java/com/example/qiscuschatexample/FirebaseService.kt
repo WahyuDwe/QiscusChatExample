@@ -40,7 +40,7 @@ class FirebaseService : FirebaseMessagingService() {
                     Log.e("Qiscus", "get current token faile: " + task.exception)
                     return@OnCompleteListener
                 }
-
+                // enable this when u have entered ur fcm server key to qiscus
 //                if (task.isSuccessful && task.result != null) {
 //                    val currentToken = task.result
 //                    currentToken.let {
