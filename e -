@@ -1,0 +1,48 @@
+[33mcommit d4fbb8912c3ee90238677b570ba37270c643fddc[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Wahyu Dwe <wahyudwihartarto3@gmail.com>
+Date:   Tue Aug 9 13:56:40 2022 +0700
+
+    first commit
+
+[33mcommit 6a93ae860af9169701634f9869458c58041c392c[m
+Author: Wahyu Dwe <wahyudwihartarto3@gmail.com>
+Date:   Tue Aug 9 13:51:21 2022 +0700
+
+    a
+
+[33mcommit a592f618e625f7fd115e3b656c297f544215cacb[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: 65a1cea eea5dac
+Author: Wahyu Dwe <wahyudwihartarto3@gmail.com>
+Date:   Tue Aug 9 13:42:30 2022 +0700
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit 65a1ceae4bb40a010e48c4f7128956f3aaad2674[m
+Author: Wahyu Dwe <wahyudwihartarto3@gmail.com>
+Date:   Tue Aug 9 13:40:20 2022 +0700
+
+    clean code
+
+[33mcommit eea5dac0033da86a2e18abfbb2a81ee64eea5cc4[m
+Author: Wahyu Dwi Hartarto <74748569+WahyuDwe@users.noreply.github.com>
+Date:   Tue Aug 9 13:37:31 2022 +0700
+
+    Create README.md
+
+[33mcommit afe294029c5efa528b0b7efe301e858314fa8827[m
+Author: Wahyu Dwe <wahyudwihartarto3@gmail.com>
+Date:   Tue Aug 9 13:34:59 2022 +0700
+
+    add configuration for notification with firebase
+
+[33mcommit 08982b0f21757855cd8353dc009dc1bee9ec382c[m
+Author: Wahyu Dwe <wahyudwihartarto3@gmail.com>
+Date:   Mon Aug 8 20:52:50 2022 +0700
+
+    clean code
+
+[33mcommit 738c1b74a4e8a8909c91404fdacdfe9fd72ae9ae[m
+Author: Wahyu Dwe <wahyudwihartarto3@gmail.com>
+Date:   Mon Aug 8 15:57:25 2022 +0700
+
+    first commit

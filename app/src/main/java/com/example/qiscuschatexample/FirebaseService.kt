@@ -11,7 +11,6 @@ import com.qiscus.sdk.chat.core.QiscusCore
 
 class FirebaseService : FirebaseMessagingService() {
 
-    private val qiscusCore = QiscusCore()
     private val qiscusMultiChatEngine = QiscusMultiChatEngine()
 
     override fun onNewToken(token: String) {
